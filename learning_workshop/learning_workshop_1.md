@@ -4,15 +4,27 @@
 <br>Boardroom, Recruitday, 5th Floor, Paseo Center, Paseo de Roxas, Makati City
 <br>Facilitators: Prince Javier and Agerico De Villa
 
+## Pricing
+Php 750 - Regular
+Php 500 - Student
+
 ## Preworkshop Publicity
 <img src='media/poster.png' align='center'>
 
-The event was publicized through Bridge 360's Facebook page and through personal LinkedIn posts. The first Facebook post reached over 1,000 users 
+The event was publicized through Bridge 360's Facebook page and through personal LinkedIn posts. The first Facebook post reached over 1,000 users. The second Facebook post, posted at around 6PM of the day before reached 200 users.
 
-An Eventbrite page was made for the event. 
+The conversion rate, or the number of users reached by the posters and who registered was 0.5%. **For the next event, if we want to target 25 participants, we need to reach 5000 participants on Facebook.**
+
+An Eventbrite page was made for the event. The tickets were set to Free to avoid the need to pay via PayPal. However, it was mentioned in the ticket description that the regular ticket is Php 750 and student rate is Php 500. This  description doesn't show up by default.
+
+Reminders were emailed through Eventbrite three days before the event and one day before the event. The rate was mentioned in the email. 
+
+One user emailed us telling us that he thought the event was free, because it was free in Eventbrite. We apologized for the confusion and clarified that we only did that to make the experience hassle free but they could pay on the day itself. He replied that he's no longer coming.
+
+Because of this, we changed the ticket name to include the event price. **For the next event, we recommend to include the ticket price in the ticket name**
 
 ## Participants
-There were a total of four "organic" participants. One participant was Kai Javier who was invited by Prince Javier. Another invited guest was Lorenzo Sta Maria, who was a CHED consultant who stayed from 1 to 2pm.
+There were a total of four "organic" participants. One of the participants thought that the event was free. But when we said it was paid, he replied that it was fine. One participant was Kai Javier who was invited by Prince Javier. Another invited guest was Lorenzo Sta Maria, who was a CHED consultant who stayed from 1 to 2pm.
 
 ## The Presentation Materials
 <link to PDF of slides>
@@ -48,3 +60,6 @@ Other comments are:
 * Good idea to start this!
 
 The Google Forms version of the results can be found here: https://bit.ly/2WgaT3k
+
+## Photos from the Event
+<Pics>
