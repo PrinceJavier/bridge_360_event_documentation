@@ -27,13 +27,20 @@ Because of this, we changed the ticket name to include the event price. **For th
 There were a total of four "organic" participants. One of the participants thought that the event was free. But when we said it was paid, he replied that it was fine. One participant was Kai Javier who was invited by Prince Javier. Another invited guest was Lorenzo Sta Maria, who was a CHED consultant who stayed from 1 to 2pm.
 
 ## The Presentation Materials
+Google Slides: https://bit.ly/2ooBY8c
 <link to PDF of slides>
-<link to Google slides>
 
 ## Event Logistics
 Recruitday sponsored the venue on the 5th floor of Paseo Center, Makati City. The venue was a board room with a long table in the middle surrounded by around 10 chairs. Television screens were used to project the slides while a digital blackboard was provided for writing during the talk. Lunch and drinks (coffee, water, or milktea) were sponsored by Recruitday.
 
-## Workshop Evaluation
+The venue was changed from 4th floor to 5th floor on the day before the event. We emailed participants about this the day before. But three participants weren't able to read them so went to the 4th floor first.
+
+## Notable Improvements in Participant Learning
+In terms of working memory, the participants initially could remember an average of 7.2 items in one minute, which improved to 10.4 items after using Memory Palace Technique. **This is a whopping 44% improvement!**
+
+All participants were able to integrate all learnings about Learning Hacks into a single mind map which they were able to explain. **This proves that they learned the material after the workshop.**
+
+## Evaluation by Participants
 At the end of the workshops, we asked participants to evaluate the workshop. 
 
 ### Learning Hacks for Industry 4.0
