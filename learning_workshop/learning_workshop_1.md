@@ -9,7 +9,7 @@ Php 750 - Regular
 Php 500 - Student
 
 ## Preworkshop Publicity
-<img src='media/poster.png' align='center'>
+<img src='media/lhtl.png' align='left' height='400'>
 
 The event was publicized through Bridge 360's Facebook page and through personal LinkedIn posts. The first Facebook post reached over 1,000 users. The second Facebook post, posted at around 6PM of the day before reached 200 users.
 
