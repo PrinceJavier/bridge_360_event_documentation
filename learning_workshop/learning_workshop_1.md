@@ -5,8 +5,23 @@
 <br>Facilitators: Prince Javier and Agerico De Villa
 
 ## Preworkshop Publicity
+<img src='media/poster.png' align='center'>
 
-## Evaluation Results
+The event was publicized through Bridge 360's Facebook page and through personal LinkedIn posts. The first Facebook post reached over 1,000 users 
+
+An Eventbrite page was made for the event. 
+
+## Participants
+There were a total of four "organic" participants. One participant was Kai Javier who was invited by Prince Javier. Another invited guest was Lorenzo Sta Maria, who was a CHED consultant who stayed from 1 to 2pm.
+
+## The Presentation Materials
+<link to PDF of slides>
+<link to Google slides>
+
+## Event Logistics
+Recruitday sponsored the venue on the 5th floor of Paseo Center, Makati City. The venue was a board room with a long table in the middle surrounded by around 10 chairs. Television screens were used to project the slides while a digital blackboard was provided for writing during the talk. Lunch and drinks (coffee, water, or milktea) were sponsored by Recruitday.
+
+## Workshop Evaluation
 At the end of the workshops, we asked participants to evaluate the workshop. 
 
 ### Learning Hacks for Industry 4.0
