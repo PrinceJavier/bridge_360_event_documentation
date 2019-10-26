@@ -23,12 +23,12 @@ One user emailed us telling us that he thought the event was free, because it wa
 
 Because of this, we changed the ticket name to include the event price. **For the next event, we recommend to include the ticket price in the ticket name**
 
-## Participants
-There were a total of four "organic" participants. One of the participants thought that the event was free. But when we said it was paid, he replied that it was fine. One participant was Kai Javier who was invited by Prince Javier. Another invited guest was Lorenzo Sta Maria, who was a CHED consultant who stayed from 1 to 2pm.
-
 ## The Presentation Materials
 Google Slides: https://bit.ly/2ooBY8c
-<link to PDF of slides>
+link to PDF of slides
+
+## Participants
+There were a total of four "organic" participants. One of the participants thought that the event was free. But when we said it was paid, he replied that it was fine. One participant was Kai Javier who was invited by Prince Javier. Another invited guest was Lorenzo Sta Maria, who was a CHED consultant who stayed from 1 to 2pm.
 
 ## Event Logistics
 Recruitday sponsored the venue on the 5th floor of Paseo Center, Makati City. The venue was a board room with a long table in the middle surrounded by around 10 chairs. Television screens were used to project the slides while a digital blackboard was provided for writing during the talk. Lunch and drinks (coffee, water, or milktea) were sponsored by Recruitday.
