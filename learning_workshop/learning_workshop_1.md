@@ -25,7 +25,7 @@ Because of this, we changed the ticket name to include the event price. **For th
 
 ## The Presentation Materials
 <a href="https://bit.ly/2ooBY8c">Google Slides</a>
-<a href="media/Learning How to Learn.pdf">PDF</a>
+<br><a href="media/Learning How to Learn.pdf">PDF</a>
 
 ## Participants
 There were a total of four "organic" participants. One of the participants thought that the event was free. But when we said it was paid, he replied that it was fine. One participant was Kai Javier who was invited by Prince Javier. Another invited guest was Lorenzo Sta Maria, who was a CHED consultant who stayed from 1 to 2pm.
@@ -44,7 +44,16 @@ All participants were able to integrate all learnings about Learning Hacks into 
 At the end of the workshops, we asked participants to evaluate the workshop. 
 
 ### Learning Hacks for Industry 4.0
-
+<p align='center'>
+<img src='media/learning hacks 1.png' height='400'>
+</p>
+<p align='center'>
+<img src='media/learning hacks 2.png' height='400'>
+</p>
+<p align='center'>
+<img src='media/learning hacks 3.png' height='400'>
+</p>
+                                                                 
 The comments are:
 * Great job!
 * Everything is awesome. Material, instruction and teaching are all clear. :)
