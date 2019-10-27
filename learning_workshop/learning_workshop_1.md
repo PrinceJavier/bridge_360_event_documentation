@@ -87,6 +87,12 @@ Other comments are:
 
 The Google Forms version of the results can be found here: https://bit.ly/2WgaT3k
 
+## Takeaways
+* We should continue doing this!
+* For our next event, let's target 20-25 people, and we need to boost our publicity materials to reach at least 5000 people
+* Let's hold only one workshop in one day
+* Let's add the price in the ticket name
+
 ## Photos from the Event
 <img src="media/photo 1.jpg" align="left" width="300">
 <img src="media/photo 2.jpg" align="left" width="300">
