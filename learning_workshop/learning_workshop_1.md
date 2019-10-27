@@ -24,8 +24,8 @@ One user emailed us telling us that he thought the event was free, because it wa
 Because of this, we changed the ticket name to include the event price. **For the next event, we recommend to include the ticket price in the ticket name**
 
 ## The Presentation Materials
-Google Slides: https://bit.ly/2ooBY8c
-link to PDF of slides
+<a href="https://bit.ly/2ooBY8c">Google Slides</a>
+<a href="media/Learning How to Learn.pdf">PDF</a>
 
 ## Participants
 There were a total of four "organic" participants. One of the participants thought that the event was free. But when we said it was paid, he replied that it was fine. One participant was Kai Javier who was invited by Prince Javier. Another invited guest was Lorenzo Sta Maria, who was a CHED consultant who stayed from 1 to 2pm.
