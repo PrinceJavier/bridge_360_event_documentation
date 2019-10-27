@@ -45,13 +45,13 @@ At the end of the workshops, we asked participants to evaluate the workshop.
 
 ### Learning Hacks for Industry 4.0
 <p align='center'>
-<img src='media/learning hacks 1.png' height='400'>
+<img src='media/learning hacks 1.png' height='300'>
 </p>
 <p align='center'>
-<img src='media/learning hacks 2.png' height='400'>
+<img src='media/learning hacks 2.png' height='300'>
 </p>
 <p align='center'>
-<img src='media/learning hacks 3.png' height='400'>
+<img src='media/learning hacks 3.png' height='300'>
 </p>
                                                                  
 The comments are:
@@ -61,6 +61,16 @@ The comments are:
 * You can provide a handout that outlines the workshop so that the participants can just use it to take notes on.
 
 ### Design Thinking 101
+
+<p align='center'>
+<img src='media/dt 1.png' height='300'>
+</p>
+<p align='center'>
+<img src='media/dt 2.png' height='300'>
+</p>
+<p align='center'>
+<img src='media/dt 3.png' height='300'>
+</p>
 
 The comments are:
 * Great job!
@@ -78,4 +88,20 @@ Other comments are:
 The Google Forms version of the results can be found here: https://bit.ly/2WgaT3k
 
 ## Photos from the Event
-<Pics>
+<img src="media/photo 1.jpg" align="left" width="300">
+<img src="media/photo 2.jpg" align="left" width="300">
+<img src="media/photo 3.jpg" align="left" width="300">
+<img src="media/photo 4.jpg" align="left" width="300">
+<img src="media/photo 5.jpg" align="left" width="300">
+<img src="media/photo 6.jpg" align="left" width="300">
+<img src="media/photo 7.jpg" align="left" width="300">
+<img src="media/photo 8.jpg" align="left" width="300">
+<img src="media/photo 9.jpg" align="left" width="300">
+<img src="media/photo 10.jpg" align="left" width="300">
+<img src="media/photo 11.jpg" align="left" width="300">
+<img src="media/photo 12.jpg" align="left" width="300">
+<img src="media/photo 13.jpg" align="left" width="300">
+<img src="media/photo 14.jpg" align="left" width="300">
+<img src="media/photo 15.jpg" align="left" width="300">
+<img src="media/photo 16.jpg" align="left" width="300">
+<img src="media/photo 17.jpg" align="left" width="300">
